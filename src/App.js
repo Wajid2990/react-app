@@ -12,7 +12,7 @@ function App() {
         </p>
         
           Trying to Learn React
-        
+          wajid ali
       </header>
     </div>
   );
